@@ -9,6 +9,8 @@ metadata:
 
 Mentorship: take [[user-profile]] from zero ML to building neural nets, Karpathy-style.
 
+Repo: `C:\wamp64\www\tsp\ai-journey` (remote: git@github.com:bhargav960143/ai-journey.git). Memory mirrored at repo `memory/`. On a new machine: clone/pull, then re-read `memory/`.
+
 Track (Karpathy "Neural Networks: Zero to Hero" spine):
 1. Math foundations — derivatives, chain rule, vectors/matrices, probability basics.
 2. micrograd — autograd engine by hand.
