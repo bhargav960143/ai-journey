@@ -22,4 +22,4 @@ Method: teach one concept → quiz to validate → only advance when answers are
 
 Calibration (2026-05-30): math background = near zero (teach calculus/linear algebra from scratch). Time = 2 hrs DAILY (~14 hrs/week, aggressive pace OK). Drive = future AI + robotics, wants to build a startup; specific Phase-5 problem still undecided.
 
-Status: Lesson 1 delivered 2026-05-30 — the derivative (intuition: slope = how output changes when input nudged). Awaiting his quiz answers before advancing to chain rule.
+Status: Restarted from zero 2026-05-30 at user request. Re-delivering Phase 1 from scratch — Lesson 1 = functions + the derivative. Awaiting quiz answers before advancing.
